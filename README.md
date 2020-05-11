@@ -1,2 +1,3 @@
 # zenDzeeMods_SampleSliders
-Experimental
+
+Playing around with the body sliders.
